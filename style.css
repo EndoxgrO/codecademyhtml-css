@@ -1,0 +1,37 @@
+html {
+  font-family: Helvetica;
+  font-size: 16px;
+  padding: 5px
+}
+h2 {
+  font-size: 2rem;
+  font-weight: bold;
+  color: white;
+}
+a {
+  font-weight: bold;
+  text-decoration: none;
+}
+.banner {
+  width: 100%;
+  padding: 0;
+}
+.banner h1 {
+  background-image: url(./pattern.jpeg);
+  color: khaki;
+  font-size: 6.25rem;
+  font-weight: bold;
+  text-align: center;
+}
+.content {
+  margin-top: 0;
+}
+.brush-banner {
+  background-color: mediumspringgreen;
+}
+.frame-banner {
+  background-color: lightcoral;
+}
+.paint-banner {
+  background-color: skyblue;
+}
